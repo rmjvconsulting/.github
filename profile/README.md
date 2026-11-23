@@ -6,4 +6,4 @@ We take ideas through positioning, branding, MVP and monetisation, and ship them
 
 Based in Estonia, working remotely.
 
-- Website: https://roxanevichot.com
+Website: https://roxanevichot.com
