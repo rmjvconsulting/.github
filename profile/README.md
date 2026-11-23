@@ -1,4 +1,4 @@
-# RMJV Consulting
+# RMJV Consulting OÜ
 
 Marketing consulting and product building, from idea to launch.
 
